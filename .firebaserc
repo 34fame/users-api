@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "prod": "fame-users-api",
+    "default": "fame-users-api"
+  },
+  "targets": {}
+}
